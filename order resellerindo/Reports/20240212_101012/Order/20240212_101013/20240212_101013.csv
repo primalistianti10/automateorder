@@ -1,0 +1,88 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Order,Chrome 121.0.0.0,,,2024-02-12 10:10:23,2024-02-12 10:11:52,1m - 28.817s,FAILED
+,,,,,,,
+Test Cases/order default,Chrome 121.0.0.0,,,2024-02-12 10:10:23,2024-02-12 10:10:46,22.720s,PASSED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-12 10:10:23,2024-02-12 10:10:27,3.374s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-12 10:10:27,2024-02-12 10:10:29,1.877s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-12 10:10:29,2024-02-12 10:10:30,1.046s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-12 10:10:30,2024-02-12 10:10:30,0.443s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-12 10:10:30,2024-02-12 10:10:30,0.381s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-12 10:10:30,2024-02-12 10:10:36,5.139s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-12 10:10:36,2024-02-12 10:10:36,0.829s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-12 10:10:36,2024-02-12 10:10:37,0.900s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Pesanan Baru""))",Chrome 121.0.0.0,,,2024-02-12 10:10:37,2024-02-12 10:10:38,0.973s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/select_Pilih Produk Tipe Produk Favorit And_f5b792""), ""70"", true)",Chrome 121.0.0.0,,,2024-02-12 10:10:38,2024-02-12 10:10:40,2.102s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Layanan_new_id_product""))",Chrome 121.0.0.0,,,2024-02-12 10:10:40,2024-02-12 10:10:41,0.381s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/div_1. FLASH SALE Instagram Foll Indo MIX 1_e928ae""))",Chrome 121.0.0.0,,,2024-02-12 10:10:41,2024-02-12 10:10:41,0.652s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Ambil foto dari instagram_target""), ""sgegtewtwtwnbgfsdfjsd"")",Chrome 121.0.0.0,,,2024-02-12 10:10:41,2024-02-12 10:10:43,1.242s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Jumlah Pesanan_qty""), ""500"")",Chrome 121.0.0.0,,,2024-02-12 10:10:43,2024-02-12 10:10:43,0.655s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-12 10:10:43,2024-02-12 10:10:44,0.479s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Oke""))",Chrome 121.0.0.0,,,2024-02-12 10:10:44,2024-02-12 10:10:45,1.230s,PASSED
+closeBrowser(),Chrome 121.0.0.0,,,2024-02-12 10:10:45,2024-02-12 10:10:46,0.688s,PASSED
+,,,,,,,
+Test Cases/order auto subscription,Chrome 121.0.0.0,,,2024-02-12 10:10:46,2024-02-12 10:11:08,22.425s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-12 10:10:46,2024-02-12 10:10:47,1.082s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-12 10:10:47,2024-02-12 10:10:49,1.598s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-12 10:10:49,2024-02-12 10:10:50,0.924s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-12 10:10:50,2024-02-12 10:10:50,0.390s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-12 10:10:50,2024-02-12 10:10:50,0.376s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-12 10:10:50,2024-02-12 10:10:56,6.103s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-12 10:10:56,2024-02-12 10:10:58,1.134s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-12 10:10:58,2024-02-12 10:10:58,0.798s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Pesanan Baru""))",Chrome 121.0.0.0,,,2024-02-12 10:10:58,2024-02-12 10:10:59,0.856s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/select_Pilih Produk Tipe Produk Favorit And_f5b792""), ""102"", true)",Chrome 121.0.0.0,,,2024-02-12 10:10:59,2024-02-12 10:11:01,2.222s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Layanan_new_id_product""))",Chrome 121.0.0.0,,,2024-02-12 10:11:01,2024-02-12 10:11:02,0.372s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/div_8.Layanan Test Developer subscription  _c693fb""))",Chrome 121.0.0.0,,,2024-02-12 10:11:02,2024-02-12 10:11:03,0.744s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Ambil foto dari instagram_target""), ""jfhwejiw"")",Chrome 121.0.0.0,,,2024-02-12 10:11:03,2024-02-12 10:11:04,1.226s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Jumlah Like  View Per Post_value""), ""50"")",Chrome 121.0.0.0,,,2024-02-12 10:11:04,2024-02-12 10:11:04,0.648s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Jumlah Post_value""), ""2"")",Chrome 121.0.0.0,,,2024-02-12 10:11:04,2024-02-12 10:11:05,0.861s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/select_Pilih Waktu Jeda0510306090""), ""5"", true)",Chrome 121.0.0.0,,,2024-02-12 10:11:05,2024-02-12 10:11:06,1.197s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/div_perm_identityInformasi PentingSpesifika_72eff9""))",Chrome 121.0.0.0,,,2024-02-12 10:11:06,2024-02-12 10:11:07,0.357s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-12 10:11:07,2024-02-12 10:11:07,0.358s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Oke""))",Chrome 121.0.0.0,,,2024-02-12 10:11:07,2024-02-12 10:11:08,0.950s,FAILED
+,,,,,,,
+Test Cases/order custom comment,Chrome 121.0.0.0,,,2024-02-12 10:11:08,2024-02-12 10:11:30,21.722s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-12 10:11:08,2024-02-12 10:11:11,2.036s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-12 10:11:11,2024-02-12 10:11:12,1.432s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-12 10:11:12,2024-02-12 10:11:13,0.968s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-12 10:11:13,2024-02-12 10:11:13,0.397s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-12 10:11:13,2024-02-12 10:11:14,0.371s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-12 10:11:14,2024-02-12 10:11:20,6.367s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-12 10:11:20,2024-02-12 10:11:21,1.032s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-12 10:11:21,2024-02-12 10:11:22,0.799s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Pesanan Baru""))",Chrome 121.0.0.0,,,2024-02-12 10:11:22,2024-02-12 10:11:23,0.851s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/select_Pilih Produk Tipe Produk Favorit And_f5b792""), ""102"", true)",Chrome 121.0.0.0,,,2024-02-12 10:11:23,2024-02-12 10:11:25,2.296s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Layanan_new_id_product""))",Chrome 121.0.0.0,,,2024-02-12 10:11:25,2024-02-12 10:11:25,0.376s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/div_7.Layanan Test Developer Custom Comment_54809d_1""))",Chrome 121.0.0.0,,,2024-02-12 10:11:25,2024-02-12 10:11:26,0.705s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Ambil foto dari instagram_target""), ""bsdfhgsdfg"")",Chrome 121.0.0.0,,,2024-02-12 10:11:26,2024-02-12 10:11:27,1.245s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/textarea_List Komentar_value""), ""komen1
+komen2
+komen3
+komen4
+komen5
+komen6
+komen7
+komen8
+komen9"")",Chrome 121.0.0.0,,,2024-02-12 10:11:27,2024-02-12 10:11:28,0.694s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-12 10:11:28,2024-02-12 10:11:28,0.464s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Oke""))",Chrome 121.0.0.0,,,2024-02-12 10:11:28,2024-02-12 10:11:30,1.364s,FAILED
+,,,,,,,
+Test Cases/order dripfill,Chrome 121.0.0.0,,,2024-02-12 10:11:30,2024-02-12 10:11:52,21.655s,FAILED
+"openBrowser("""")",Chrome 121.0.0.0,,,2024-02-12 10:11:30,2024-02-12 10:11:32,1.756s,PASSED
+"navigateToUrl(""https://rs-dev.promosindo.web.id/"")",Chrome 121.0.0.0,,,2024-02-12 10:11:32,2024-02-12 10:11:34,1.722s,PASSED
+"setText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_face_username_a""), ""primalisti"")",Chrome 121.0.0.0,,,2024-02-12 10:11:34,2024-02-12 10:11:35,1.052s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/input_lock_outline_password_a""), ""ZxFguJnQseeHukWJJhGuHA=="")",Chrome 121.0.0.0,,,2024-02-12 10:11:35,2024-02-12 10:11:35,0.403s,PASSED
+"click(findTestObject(""Object Repository/Page_Resellerindo - Masuk SMM Panel Resellerindo/div_Masuk""))",Chrome 121.0.0.0,,,2024-02-12 10:11:35,2024-02-12 10:11:35,0.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/button_Close""))",Chrome 121.0.0.0,,,2024-02-12 10:11:35,2024-02-12 10:11:41,5.118s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/span_""))",Chrome 121.0.0.0,,,2024-02-12 10:11:41,2024-02-12 10:11:41,0.787s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/i_Simpan_fas fa-times""))",Chrome 121.0.0.0,,,2024-02-12 10:11:41,2024-02-12 10:11:42,0.891s,PASSED
+"click(findTestObject(""Object Repository/Page_Dasbor  Resellerindo/p_Pesanan Baru""))",Chrome 121.0.0.0,,,2024-02-12 10:11:42,2024-02-12 10:11:43,0.827s,PASSED
+"selectOptionByValue(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/select_Pilih Produk Tipe Produk Favorit And_f5b792""), ""102"", true)",Chrome 121.0.0.0,,,2024-02-12 10:11:43,2024-02-12 10:11:45,2.298s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Layanan_new_id_product""))",Chrome 121.0.0.0,,,2024-02-12 10:11:45,2024-02-12 10:11:46,0.395s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/div_2.Layanan Test Developer Dripfill      _e39054""))",Chrome 121.0.0.0,,,2024-02-12 10:11:46,2024-02-12 10:11:46,0.595s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Ambil foto dari instagram_target""), ""sjdlhfhfaf"")",Chrome 121.0.0.0,,,2024-02-12 10:11:46,2024-02-12 10:11:47,1.110s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Jumlah Hari_value""), ""3"")",Chrome 121.0.0.0,,,2024-02-12 10:11:47,2024-02-12 10:11:48,0.685s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Jumlah Pesanan_qty""), ""5"")",Chrome 121.0.0.0,,,2024-02-12 10:11:48,2024-02-12 10:11:49,0.876s,PASSED
+"setText(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/input_Jumlah Hari_value""), ""10"")",Chrome 121.0.0.0,,,2024-02-12 10:11:49,2024-02-12 10:11:50,0.765s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Pesan""))",Chrome 121.0.0.0,,,2024-02-12 10:11:50,2024-02-12 10:11:50,0.482s,PASSED
+"click(findTestObject(""Object Repository/Page_Pesanan  Resellerindo/button_Oke""))",Chrome 121.0.0.0,,,2024-02-12 10:11:50,2024-02-12 10:11:52,1.306s,FAILED

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Simpan_fas fa-times</name>
+   <tag></tag>
+   <elementGuidId>fee2d04a-26d5-4b0f-a9cf-4434d6e5b899</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@onclick='rightside(false)']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e0ae4516-7397-4b80-95a1-6cf687022140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-times</value>
+      <webElementGuid>f8a2d992-75ae-4ec0-8d6d-5b0f85bacc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>rightside(false)</value>
+      <webElementGuid>e114d64a-38d9-403e-930a-0f1f04cb510f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;header-title-right&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-2&quot;]/i[@class=&quot;fas fa-times&quot;]</value>
+      <webElementGuid>9b1ca497-ff5b-451c-b37d-323c2950a6ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@onclick='rightside(false)']</value>
+      <webElementGuid>560e3165-7185-478b-84ed-c92197646285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slider']/div/div/div[2]/i</value>
+      <webElementGuid>6b3247d5-9d27-4917-a630-808a32e419a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/i</value>
+      <webElementGuid>1ea2bf75-d111-497a-b7a2-aa658d13f7c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

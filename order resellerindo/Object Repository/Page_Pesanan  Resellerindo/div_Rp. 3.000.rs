@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp. 3.000</name>
+   <tag></tag>
+   <elementGuidId>a69be1f5-a5da-4ddd-bacb-7b2b30204031</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='terlaris']/div/div/div[2]/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c5ee1121-5eef-4a99-8fd7-f11f8c3d9e6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp. 3.000</value>
+      <webElementGuid>963fc7d5-9383-49ba-a275-9fda7b6d2888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;terlaris&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;card&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[1]</value>
+      <webElementGuid>ec099331-742b-4a2d-8689-d609b5f4f32b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='terlaris']/div/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>c6d443be-e3b9-4b51-91f7-bd7629c97eb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/following::div[21]</value>
+      <webElementGuid>f11dca95-9c22-436a-a907-2652552b0e9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Termahal'])[1]/following::div[23]</value>
+      <webElementGuid>b657d734-5bc0-4afa-8e35-d8582a644075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 60'])[1]/preceding::div[13]</value>
+      <webElementGuid>8f8f05f9-7219-4312-a5c3-d9821b344aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OFF 40%'])[1]/preceding::div[19]</value>
+      <webElementGuid>efc016d3-cd5b-48dc-a00f-f78674dc5d86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rp. 3.000']/parent::*</value>
+      <webElementGuid>a43edc7a-be83-42f7-8f43-3d8297728f05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>825a648e-de51-465c-b9d8-fed0c47805bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp. 3.000' or . = 'Rp. 3.000')]</value>
+      <webElementGuid>8136fcb7-0405-43a5-99f2-ec4b6fcbce67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

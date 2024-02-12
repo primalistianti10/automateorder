@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Rp. 1.000</name>
+   <tag></tag>
+   <elementGuidId>a5567a20-2235-416e-a8a6-e99ad791996d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='terlaris']/div[5]/div/div[2]/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78eb7c40-6093-490c-b5e5-f0cfcdc12ecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rp. 1.000</value>
+      <webElementGuid>7fcad536-2f06-4e23-b873-7dcc59e7b739</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;terlaris&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;card&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6&quot;]/div[1]</value>
+      <webElementGuid>2d1e16a3-7092-4e10-9591-bdfd88aa4fb3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='terlaris']/div[5]/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>b977d95d-95f5-4b68-b3cb-974f999d5112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='null x pembelian bulan Ini'])[5]/following::div[5]</value>
+      <webElementGuid>746897dc-fa1a-49a4-87b2-eb4f7b84c935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 1.000'])[3]/following::div[18]</value>
+      <webElementGuid>5af0ed64-ab01-4947-b840-2486be4ba204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='null x pembelian bulan Ini'])[6]/preceding::div[10]</value>
+      <webElementGuid>aaec216d-0923-4001-bbf9-4796cf8781fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 1.000'])[5]/preceding::div[13]</value>
+      <webElementGuid>42bc18c8-ce3a-413a-b1df-64cee35d6c47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div[2]/div[3]/div[2]/div</value>
+      <webElementGuid>cc5ad821-3c54-4f55-bed5-bcdf66dc9987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Rp. 1.000' or . = 'Rp. 1.000')]</value>
+      <webElementGuid>1b062252-2771-4b85-9189-ee63de6ddb49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

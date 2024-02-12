@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Simpan_col-2</name>
+   <tag></tag>
+   <elementGuidId>3d107a81-c216-43d4-9944-5917e6fed5f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.header-title-right > div.row > div.col-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slider']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1526c525-a915-4d1d-a326-bed5abb24686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-2</value>
+      <webElementGuid>d4323ed1-5c1c-4d8a-9156-aecd92b96862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slider&quot;)/div[@class=&quot;header-title-right&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-2&quot;]</value>
+      <webElementGuid>c00dd12f-b30c-4d8b-9851-64dded555917</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slider']/div/div/div[2]</value>
+      <webElementGuid>2f54ef55-a115-4313-b5f8-adbae48cfa2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::div[5]</value>
+      <webElementGuid>0e2d632d-0be8-4e04-9769-284fd7afe2b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan Saran anda'])[1]/following::div[6]</value>
+      <webElementGuid>409ca40f-6caf-4582-900f-57ac7a5c740c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Whatsapp belum terverifikasi'])[1]/preceding::div[1]</value>
+      <webElementGuid>88741dcd-502e-41c4-ad27-6fd018d3622a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapet Saldo 600Ribuu???'])[1]/preceding::div[5]</value>
+      <webElementGuid>02568651-2392-415b-af46-d72803daeae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div/div/div[2]</value>
+      <webElementGuid>3493263c-13f2-4cbe-8bb8-a4acc1daacaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

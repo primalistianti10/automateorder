@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jumlah Post</name>
+   <tag></tag>
+   <elementGuidId>06a547ed-3e25-4dba-b281-1538edcea044</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#custom_input > div:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='custom_input']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7dc8d86c-8e43-4668-87b2-553ab35fd58c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah Post</value>
+      <webElementGuid>4eb58e6f-ec8b-47a4-97ee-7d316514065c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom_input&quot;)/div[2]</value>
+      <webElementGuid>a95f4ad7-74df-4d8a-9590-6b7845cb221d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='custom_input']/div[2]</value>
+      <webElementGuid>b1d66cbb-7333-43a8-a645-588859c08b49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah Like / View Per Post'])[1]/following::div[3]</value>
+      <webElementGuid>5f3f2892-8e03-45fa-a0db-51c9174aa20b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sesuaikan dengan contoh data di infomarsi'])[1]/following::div[5]</value>
+      <webElementGuid>5f174444-5f26-44e9-91e6-446123bcef06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jeda (menit)'])[1]/preceding::div[3]</value>
+      <webElementGuid>584158aa-a8a9-4f83-bf14-f2cf6bd3fb51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[2]</value>
+      <webElementGuid>7d4a42ff-4263-4fbc-8f54-bcdb36baa0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jumlah Post' or . = 'Jumlah Post')]</value>
+      <webElementGuid>0e42184c-c97a-482f-91bf-529130d80a36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_6.Layanan Test Developer subscription</name>
+   <tag></tag>
+   <elementGuidId>294ff4dd-7055-4750-a5aa-e2808c9dfbb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='terlaris']/div[6]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3b77c2af-dfc8-4522-a84b-2ddf54dbf1ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>6.Layanan Test Developer subscription</value>
+      <webElementGuid>bb181815-c2f1-4c5e-ae65-2054ac83e5da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;terlaris&quot;)/div[@class=&quot;col-sm-6&quot;]/div[@class=&quot;card&quot;]/div[2]/p[1]</value>
+      <webElementGuid>51f23aea-d52d-4dc9-b2fb-c12dacd9028c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='terlaris']/div[6]/div/div[2]/p</value>
+      <webElementGuid>860ae351-44b1-413a-b5b4-3d5152ea385e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 1.000'])[4]/following::p[1]</value>
+      <webElementGuid>117ad2b3-bd8f-4a78-b165-e04c9e2377ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='null x pembelian bulan Ini'])[5]/following::p[1]</value>
+      <webElementGuid>94116357-b197-4ecb-8060-fbf848e1cb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='null x pembelian bulan Ini'])[6]/preceding::p[1]</value>
+      <webElementGuid>a7cee054-a131-460e-8d3d-a0d1a7280ea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp. 1.000'])[5]/preceding::p[1]</value>
+      <webElementGuid>2b35b9a7-24f8-4094-9d1e-3eb5afe06f46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='6.Layanan Test Developer subscription']/parent::*</value>
+      <webElementGuid>35f3a33e-76ec-4a1d-8691-21dd17f7dd09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/p</value>
+      <webElementGuid>33c334cc-9651-49dc-9fdd-bf827cf4d9b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '6.Layanan Test Developer subscription' or . = '6.Layanan Test Developer subscription')]</value>
+      <webElementGuid>8a4a5d42-9858-41a5-8d67-33aee3a18e22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
